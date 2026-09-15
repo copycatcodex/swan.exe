@@ -8,7 +8,7 @@
        |_|   |__/
 ```
 
-# 👋 Hello, I'm copycatcodex
+# 👋 Hello, I'm copycatcodex, vibecoder hehehe
 
 *Turning coffee into code, one commit at a time* ☕➡️💻
 
@@ -24,19 +24,19 @@
 
 ```
 ┌──────────────────────────────────────────┐
-│  const copycatcodex = {                          │
-│    role: "Developer",                    │
-│    languages: ["Python", "HTML"],        │
+│  const copycatcodex = {                  │
+│    role: "vibecoder",                    │
+│    languages: [Melayu 👀],               │
 │    currentlyLearning: "..." ,            │
-│    funFact: "Loves clean code ✨"        │
+│    funFact: "Love you!✨"               │
 │  };                                      │
 └──────────────────────────────────────────┘
 ```
 
-- 🔭 I'm currently working on cool projects
-- 🌱 I'm always learning something new
-- 💬 Ask me about Python & Web basics
-- ⚡ Fun fact: I debug with print() and I'm not ashamed
+- 🔭 I'm currently working on design :u
+- 🌱 I'm always learning something new with you
+- 💬 Ask me about anythin'
+- ⚡ Fun fact: Im Jawir
 
 ---
 
